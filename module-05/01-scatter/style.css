@@ -1,0 +1,17 @@
+svg {
+  border: 1px solid #ccc;
+}
+
+text {
+  font-family: 'Avenir', sans-serif;
+}
+
+.axis .domain {
+  stroke: #bbb;
+}
+
+.tick line {
+  stroke: #bbb;
+  stroke-width: 0.5;
+  stroke-dasharray: 4, 2;
+}
